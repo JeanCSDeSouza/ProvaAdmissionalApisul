@@ -1,3 +1,5 @@
+package br.com.tecnopuc.servico;
+
 import java.util.List;
 
 public interface IElevadorService {
